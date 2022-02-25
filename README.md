@@ -1,5 +1,5 @@
 
-#Sample website
+# Sample website
 
 This is a sample website made as part of Learn enough Git to be dangerous [Dangerous*](http://learnenough.com/git-tutorial),
 possibly the greatest beginner Git tutorial in the history of the Universe.
